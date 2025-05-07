@@ -28,7 +28,7 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <a
-                  href="mailto:contact@evisiontech.io"
+                  href="sachin.kolhe.evisiontech@gmail.com"
                   className="flex items-center text-indigo-500 hover:text-indigo-600 dark:hover:text-indigo-400"
                 >
                   <svg
@@ -52,7 +52,7 @@ const Contact = () => {
               <div className="flex items-center">
                 <FaMapMarkerAlt className="text-indigo-500 mr-2" />
                 <span className="text-gray-600 dark:text-gray-300">
-                  San Francisco, CA
+                  Pune, India
                 </span>
               </div>
 

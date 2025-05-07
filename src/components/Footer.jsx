@@ -41,25 +41,26 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://www.linkedin.com/company/e-visiontech"
                 className="text-gray-300 hover:text-white transition-colors"
               >
                 <FaLinkedin className="text-xl" />
               </a>
               <a
-                href="#"
+                href="https://x.com/evsachin123"
                 className="text-gray-300 hover:text-white transition-colors"
               >
                 <FaTwitter className="text-xl" />
               </a>
               <a
-                href="#"
+                href="https://github.com/evsachin/"
                 className="text-gray-300 hover:text-white transition-colors"
               >
                 <FaGithub className="text-xl" />
               </a>
+              <a href="mailto:"></a>
               <a
-                href="#"
+                href="mailto:sachin.kolhe.evisiontech@gmail.com"
                 className="text-gray-300 hover:text-white transition-colors"
               >
                 <FaEnvelope className="text-xl" />
