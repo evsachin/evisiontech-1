@@ -45,7 +45,7 @@ const Contact = () => {
                       d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                     />
                   </svg>
-                  contact@evisiontech.io
+                  sachin.kolhe.evisiontech@gmail.com
                 </a>
               </div>
 
@@ -58,19 +58,19 @@ const Contact = () => {
 
               <div className="flex space-x-4 mt-6">
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/company/e-visiontech/people/?viewAsMember=true"
                   className="text-gray-600 dark:text-gray-300 hover:text-indigo-500 dark:hover:text-indigo-400"
                 >
                   <FaLinkedin className="text-2xl" />
                 </a>
                 <a
-                  href="#"
+                  href="https://x.com/evsachin123"
                   className="text-gray-600 dark:text-gray-300 hover:text-indigo-500 dark:hover:text-indigo-400"
                 >
                   <FaTwitter className="text-2xl" />
                 </a>
                 <a
-                  href="#"
+                  href="https://github.com/evsachin/"
                   className="text-gray-600 dark:text-gray-300 hover:text-indigo-500 dark:hover:text-indigo-400"
                 >
                   <FaGithub className="text-2xl" />
